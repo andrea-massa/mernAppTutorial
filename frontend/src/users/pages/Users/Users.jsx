@@ -5,12 +5,12 @@ import UsersList from "../../components/UsersList/UsersList";
 function Users() {
     let users = [
         {
-            id: 1,
+            id: 'u1',
             name: 'amassa1',
             image: 'https://picsum.photos/200',
-            placeCount: 3
+            placeCount: 1
         }, {
-            id: 2,
+            id: 'u2',
             name: 'isabellaroose1',
             image: 'https://picsum.photos/200',
             placeCount: 1
